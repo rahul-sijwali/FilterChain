@@ -1,0 +1,7 @@
+Servlet Filter chaining app
+
+Tested on java 17 and tomcat 9.0.71
+
+dependencies:
+	servlet-api
+
